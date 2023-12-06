@@ -1,0 +1,19 @@
+body {
+  background-color: #888;
+}
+
+h1 {
+  text-align: center;
+  font-size: 6rem;
+}
+ul {
+  text-align: center;
+}
+ul li {
+  list-style: none;
+  font-size: 4rem;
+  margin: 1.5rem;
+}
+ul li a {
+  text-decoration: none;
+}
