@@ -7,13 +7,21 @@ h1 {
   font-size: 4rem;
 }
 ul {
-  text-align: center;
+  margin: 0 auto;
 }
 ul li {
   list-style: none;
   font-size: 2rem;
   margin: 1rem;
+  text-align: center;
 }
 ul li a {
   text-decoration: none;
+}
+img {
+  height: 20rem;
+}
+.img {
+  display: flex;
+  justify-content: center;
 }
